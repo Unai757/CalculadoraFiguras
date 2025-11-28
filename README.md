@@ -10,7 +10,7 @@ En primer lugar, tendrás que ejecutar el programa. Si utilizas **IntelliJ IDEA*
 ##  Funcionamiento
 Al iniciar, el programa te pedirá cuántas figuras quieres añadir. Este número determinará el tamaño máximo del array (la memoria reservada).
 
-AVISO: Solo puedes añadir hasta el número de figuras que hayas decidido al principio. No podrás añadir más formas cuando hayas alcanzado el límite; saltará.
+AVISO: Solo puedes añadir hasta el número de figuras que hayas decidido al principio. No podrás añadir más formas cuando hayas alcanzado el límite; saldra un error.
 
 ###  El Menú
 Después de definir el tamaño, aparecerá un menú donde decidirás qué figura quieres crear:
