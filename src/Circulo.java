@@ -17,7 +17,7 @@ private double radio;
          */
 
         if (radio < 0) {
-            throw new IllegalArgumentException("La base y la altura no deben ser negativo");
+            throw new IllegalArgumentException("El radio no debe negativo");
         }
 
     }
