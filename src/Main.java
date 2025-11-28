@@ -21,8 +21,9 @@ public class Main {
 
 
         do {
-            System.out.println("------------");
-            System.out.println("Que opcion quiere usar 1-Circulo, 2-Rectangulo 3-Triangulo 4-salir");
+            System.out.println("-------------------------------------------");
+            System.out.println("Que opcion quiere usar 1-Circulo, 2-Rectangulo 3-Triangulo 4-Salir y ver resumen de figuras");
+            System.out.println("-------------------------------------------");
             opcion = sc.nextInt();
             /***
              *Hacemos un loop do while para crear el menu y utilizarlo, se usa el do-while para que al menos el menu
