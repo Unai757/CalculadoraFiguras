@@ -21,7 +21,7 @@ Después de definir el tamaño, aparecerá un menú donde decidirás qué figura
 4.  Si quieres Salir y Mostrar Información.
 
 ###  Manejo de Errores
- ** AVISO 2: El programa dara un error si:
+  AVISO 2: El programa dara un error si:
  * Si introduces un número negativo.
  * Si introduces una letra o otro carácter.
 
