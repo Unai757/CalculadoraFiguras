@@ -1,4 +1,4 @@
-# Calculadora de Figuras Geométricas 📐
+# Calculadora de Figuras Geométricas 
 
 Hola, soy Unai. En este README voy a explicar cómo utilizar este programa que he creado en Java.
 
