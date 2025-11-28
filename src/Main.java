@@ -55,7 +55,12 @@ public class Main {
                                 Figuras[contador] = circulo;
                                 contador++;
                                 System.out.println("Circulo guardado");
+                            }else{
+                                System.out.println("No hay suficiente espacio para la forma");
                             }
+                            /***
+                             * Aqui comprobaremos que si hay suficiente espacio para agregar la formula al array si no no se añadira
+                             */
                             EntradaValida = true;
                         } catch (InputMismatchException e) {
                             System.out.println("Tienes que poner un numero");
@@ -94,6 +99,8 @@ public class Main {
                                 Figuras[contador] = rectangulo;
                                 contador++;
                                 System.out.println("rectangulo guardado");
+                            }else {
+                                System.out.println("No hay suficiente espacio para la forma");
                             }
                             EntradaValida = true;
 
@@ -129,6 +136,9 @@ public class Main {
                                 Figuras[contador] = triangulo;
                                 contador++;
                                 System.out.println("triangulo guardado");
+
+                            }else{
+                                System.out.println("No hay suficiente espacio  para la forma");
                             }
                             EntradaValida = true;
 
